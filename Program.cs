@@ -4,6 +4,7 @@ namespace ArithmeticOperators
 {
     class Program
     {
+        #pragma warning disable IDE0060
         static void Main(string[] args)
         {
             int n1 = 3 + 4 * 2;
