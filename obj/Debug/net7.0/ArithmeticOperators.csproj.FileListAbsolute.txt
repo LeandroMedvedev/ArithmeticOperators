@@ -1,0 +1,15 @@
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/bin/Debug/net7.0/ArithmeticOperators
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/bin/Debug/net7.0/ArithmeticOperators.deps.json
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/bin/Debug/net7.0/ArithmeticOperators.runtimeconfig.json
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/bin/Debug/net7.0/ArithmeticOperators.dll
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/bin/Debug/net7.0/ArithmeticOperators.pdb
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.csproj.AssemblyReference.cache
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.AssemblyInfoInputs.cache
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.AssemblyInfo.cs
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.csproj.CoreCompileInputs.cache
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.dll
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/refint/ArithmeticOperators.dll
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.pdb
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ArithmeticOperators.genruntimeconfig.cache
+/home/leandromedvedev/Documentos/aqc-sa/CSharp/Projects/ArithmeticOperators/obj/Debug/net7.0/ref/ArithmeticOperators.dll
